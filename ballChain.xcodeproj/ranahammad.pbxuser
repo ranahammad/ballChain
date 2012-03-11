@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ballChain */ = {
+		activeExec = 0;
+		executables = (
+			5606A38C150B4F4F00088E78 /* ballChain */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* ballChainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1284, 4365}}";
+			sepNavSelRange = "{5180, 0}";
+			sepNavVisRange = "{4800, 806}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5606A38C150B4F4F00088E78 /* ballChain */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ballChain */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ballChain */,
+		);
+		codeSenseManager = 5606A3A0150B4F7700088E78 /* Code sense */;
+		executables = (
+			5606A38C150B4F4F00088E78 /* ballChain */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					788,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353062735;
+			PBXWorkspaceStateSaveDate = 353062735;
+		};
+		perUserProjectItems = {
+			5606A41A150B512800088E78 /* PBXTextBookmark */ = 5606A41A150B512800088E78 /* PBXTextBookmark */;
+			5606A41B150B512800088E78 /* PBXBookmark */ = 5606A41B150B512800088E78 /* PBXBookmark */;
+			5606A41C150B512800088E78 /* PBXTextBookmark */ = 5606A41C150B512800088E78 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5606A39F150B4F7700088E78 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3E8F36CC0FB68B4A00BE5576 /* CSqliteController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {966, 810}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 692}";
+		};
+	};
+	5606A38C150B4F4F00088E78 /* ballChain */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ballChain;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5606A39F150B4F7700088E78 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5606A3A0150B4F7700088E78 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5606A41A150B512800088E78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ballChainViewController.m */;
+		name = "ballChainViewController.m: 165";
+		rLen = 0;
+		rLoc = 5180;
+		rType = 0;
+		vrLen = 806;
+		vrLoc = 4800;
+	};
+	5606A41B150B512800088E78 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3E8F36CC0FB68B4A00BE5576 /* CSqliteController.h */;
+	};
+	5606A41C150B512800088E78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3E8F36CC0FB68B4A00BE5576 /* CSqliteController.h */;
+		name = "CSqliteController.h: 7";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 692;
+		vrLoc = 0;
+	};
+}
